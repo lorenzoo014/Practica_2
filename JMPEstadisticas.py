@@ -26,10 +26,10 @@ import matplotlib.pyplot as plt
 
 
 class JMPEstadisticas():
-    print("H ")
 
     def __init__(self,caracteristica):
         self.caracteristica = caracteristica
+        print("hola")
 
 
     def calculoMediaAritmetica(self):
